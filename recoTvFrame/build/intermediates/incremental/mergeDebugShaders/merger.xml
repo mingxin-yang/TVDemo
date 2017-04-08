@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\Java\Android\TVDemo\recoTvFrame\src\main\shaders"/></dataSet><dataSet config="debug"><source path="F:\Java\Android\TVDemo\recoTvFrame\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\android_project\TVDemo\recoTvFrame\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\android_project\TVDemo\recoTvFrame\src\debug\shaders"/></dataSet></merger>
