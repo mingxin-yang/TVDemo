@@ -2,5 +2,9 @@
     {
         "merged": "F:\\Java\\Android\\TVDemo\\recoTvFrame\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\free.xml",
         "source": "F:\\Java\\Android\\TVDemo\\recoTvFrame\\build\\intermediates\\bundles\\debug\\res\\menu\\free.xml"
+    },
+    {
+        "merged": "D:\\android_project\\TVDemo\\recoTvFrame\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\free.xml",
+        "source": "D:\\android_project\\TVDemo\\recoTvFrame\\build\\intermediates\\bundles\\debug\\res\\menu\\free.xml"
     }
 ]
